@@ -1,5 +1,5 @@
 def base_hash 
-  bas_hash = { one_key: {}
+  manopoly = { one_key: {}
   }
   
   # Remember implicit return! We're returning this new Hash _without_ the
